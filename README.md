@@ -2,6 +2,10 @@
 
 FletNix is a web application that helps users search, filter, and explore the available movies and TV shows on Netflix. The app provides a user-friendly interface for browsing through a vast collection of content and allows users to find their desired movies or TV shows based on various criteria. Users can register and log in using their email and password, and the app offers a range of features to enhance the browsing experience.
 
+## Demo Video
+
+To see a demo of the FletNix app in action, you can watch the demo video available [here]([link-to-demo-video-in-google-drive](https://drive.google.com/file/d/1hxFUiXct0iudMSxp3xKXlLMCB7dG1av3/view)).
+
 ## Screenshot
 
 ![Screenshot](<./src/screenshot/Screenshot%20(3).png>)
@@ -46,20 +50,12 @@ To set up the FletNix app locally, follow these steps:
 2. Install the necessary dependencies:
 
 ```bash
-# Navigate to the server directory
-cd fletnix/server
-npm install
-
 # Navigate to the client directory
-cd ../client
+cd fletnixfrontend
 npm install
-
 ```
 
 ```bash
-# Start the server (from the server directory)
-npm start
-
 # Start the client (from the client directory)
 npm start
 ```
@@ -70,12 +66,9 @@ npm start
 MONGODB_URI=<your-mongodb-connection-string>
 ```
 
-4. Start the server and client:
+4. Start the client:
 
 ```bash
-# Start the server (from the server directory)
-npm start
-
 # Start the client (from the client directory)
 npm start
 ```
@@ -90,6 +83,4 @@ To run the basic test cases, follow these steps:
 
 2. Navigate to the server directory and run the test script:
 
-## Demo Video
 
-To see a demo of the FletNix app in action, you can watch the demo video available [here](link-to-demo-video-in-google-drive).
