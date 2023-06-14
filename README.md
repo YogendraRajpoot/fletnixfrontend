@@ -4,7 +4,7 @@ FletNix is a web application that helps users search, filter, and explore the av
 
 ## Demo Video
 
-To see a demo of the FletNix app in action, you can watch the demo video available [here]([link-to-demo-video-in-google-drive](https://drive.google.com/file/d/1hxFUiXct0iudMSxp3xKXlLMCB7dG1av3/view)).
+To see a demo of the FletNix app in action, you can watch the demo video available [here](https://drive.google.com/file/d/1hxFUiXct0iudMSxp3xKXlLMCB7dG1av3/view).
 
 ## Screenshot
 
